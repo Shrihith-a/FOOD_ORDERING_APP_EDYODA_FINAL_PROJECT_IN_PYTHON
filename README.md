@@ -1,9 +1,9 @@
 # FOOD_ORDERING_APP_EDYODA_FINAL_PROJECT_IN_PYTHON
-Shris Ktchen Food Ordering App - Final Project in Python 
-''' Default "Admin details":
-        "User Name": "Shriskitchen",
-        "Password": "1234"
-        And also can Admin register with new '''
+# Shris Ktchen Food Ordering App - Final Project in Python 
+# ''' Default "Admin details":
+#        "User Name": "Shriskitchen",
+#       "Password": "1234"
+#        And also can Admin register with new credentials '''
 
 # All Admin credentials and food are stored in Database.json file 
 # You have to design a Food Ordering app for a restaurant.
