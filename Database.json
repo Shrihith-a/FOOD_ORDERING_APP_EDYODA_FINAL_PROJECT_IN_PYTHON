@@ -1,0 +1,165 @@
+{
+    "Admin details": {
+        "User Name": "Shriskitchen",
+        "Password": "1234"
+    },
+    "food_menu": {
+        "1": {
+            "Name": "dosa",
+            "Quantity": {
+                "a. piece": "1",
+                "b. ml": "0",
+                "c. gram": "0"
+            },
+            "Price": 65.0,
+            "Discount": 5.0,
+            "Stock": {
+                "a. piece": "100",
+                "b. ml": "0",
+                "c. gram": "0"
+            }
+        },
+        "2": {
+            "Name": "idli",
+            "Quantity": {
+                "a. piece": "2",
+                "b. ml": "0",
+                "c. gram": "0"
+            },
+            "Price": 30.0,
+            "Discount": 5.0,
+            "Stock": {
+                "a. piece": "100",
+                "b. ml": "0",
+                "c. gram": "0"
+            }
+        },
+        "3": {
+            "Name": "Basundi",
+            "Quantity": {
+                "a. piece": "0",
+                "b. ml": "100",
+                "c. gram": "0"
+            },
+            "Price": 60.0,
+            "Discount": 10.0,
+            "Stock": {
+                "a. piece": "0",
+                "b. ml": "2000",
+                "c. gram": "0"
+            }
+        },
+        "4": {
+            "Name": "Sweet :- 'Jalebi'",
+            "Quantity": {
+                "a. piece": "0",
+                "b. ml": "0",
+                "c. gram": "500"
+            },
+            "Price": 280.0,
+            "Discount": 10.0,
+            "Stock": {
+                "a. piece": "0",
+                "b. ml": "0",
+                "c. gram": "3000"
+            }
+        },
+        "5": {
+            "Name": "fried rice",
+            "Quantity": {
+                "a. piece": "1",
+                "b. ml": "0",
+                "c. gram": "0"
+            },
+            "Price": 60.0,
+            "Discount": 5.0,
+            "Stock": {
+                "a. piece": "90",
+                "b. ml": "0",
+                "c. gram": "0"
+            }
+        },
+        "6": {
+            "Name": "Idli Vada",
+            "Quantity": {
+                "a. piece": "3",
+                "b. ml": "0",
+                "c. gram": "0"
+            },
+            "Price": 50.0,
+            "Discount": 5.0,
+            "Stock": {
+                "a. piece": "100",
+                "b. ml": "0",
+                "c. gram": "0"
+            }
+        },
+        "7": {
+            "Name": "Rasmalai",
+            "Quantity": {
+                "a. piece": "0",
+                "b. ml": "100",
+                "c. gram": "0"
+            },
+            "Price": 60.0,
+            "Discount": 5.0,
+            "Stock": {
+                "a. piece": "0",
+                "b. ml": "2000",
+                "c. gram": "0"
+            }
+        },
+        "8": {
+            "Name": "Sweet :- 'Mysorepak'",
+            "Quantity": {
+                "a. piece": "0",
+                "b. ml": "0",
+                "c. gram": "250"
+            },
+            "Price": 200.0,
+            "Discount": 10.0,
+            "Stock": {
+                "a. piece": "0",
+                "b. ml": "0",
+                "c. gram": "3000"
+            }
+        },
+        "9": {
+            "Name": "Mangalore Bajji",
+            "Quantity": {
+                "a. piece": "4",
+                "b. ml": "0",
+                "c. gram": "0"
+            },
+            "Price": 25.0,
+            "Discount": 0.0,
+            "Stock": {
+                "a. piece": "100",
+                "b. ml": "0",
+                "c. gram": "0"
+            }
+        },
+        "10": {
+            "Name": "Roti kari",
+            "Quantity": {
+                "a. piece": "1",
+                "b. ml": "0",
+                "c. gram": "0"
+            },
+            "Price": 50.0,
+            "Discount": 0.0,
+            "Stock": {
+                "a. piece": "80",
+                "b. ml": "0",
+                "c. gram": "0"
+            }
+        }
+    },
+    "User details": {
+        "User Name": "punneth",
+        "Phone No.": 1234567890,
+        "Email_ID": "puni@yahoo.com",
+        "Password": "123456",
+        "Address": "Bengaluru - 560099"
+    }
+}
