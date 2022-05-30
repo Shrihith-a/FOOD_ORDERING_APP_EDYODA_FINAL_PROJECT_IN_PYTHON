@@ -6,6 +6,8 @@
 #        And also can Admin register with new credentials '''
 
 # All Admin credentials and food are stored in Database.json file 
+
+# Outline Problem statements ?
 # You have to design a Food Ordering app for a restaurant.
 
 # The application will have a log-in for admin and users.
